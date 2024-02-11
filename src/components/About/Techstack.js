@@ -24,6 +24,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
       <DiDjango />
       </Col>
+      <br />
 
       <Col xs={4} md={2} className="tech-icons">
       <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Algorithm.svg" alt="Algorithms" height="60"></img>
