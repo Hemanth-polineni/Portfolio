@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import AboutCard2 from "./AboutCard2";
-import laptopImg from "../../Assets/hemanth.jpg";
+import laptopImg from "../../Assets/hemanth1.jpg";
 import Tilt from "react-parallax-tilt";
 
 function About() {
