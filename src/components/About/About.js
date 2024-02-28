@@ -40,7 +40,7 @@ function About() {
             className="about-img circular-image"
           >
             <Tilt>
-            <img src={laptopImg} alt="about" className="img-fluid rounded-circle" />
+            <img src={laptopImg} alt="about" className="img-fluid rounded-circle" width="50%" height="50%" />
 
             </Tilt>
           </Col>
